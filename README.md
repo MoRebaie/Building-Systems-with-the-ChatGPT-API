@@ -1,2 +1,5 @@
 # Building-Systems-with-the-ChatGPT-API
-Automate complex workflows using chain calls to a large language model. Find prompt chains that build on previous responses, integrated systems with Python code, and a customer service chatbot. Explore capabilities like classifying user queries, evaluating safety, and multi-step reasoning.
+This repo includes notebooks on how to automate complex workflows using chain calls to a large language model, find prompt chains that build on previous responses, integrate systems with Python code, build a customer service chatbot, and explore capabilities like classifying user queries, evaluating safety, and multi-step reasoning. It's taken from the "Building Systems with the ChatGPT API" short course by DeepLearning.AI.
+
+See the full course here: https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt
+
